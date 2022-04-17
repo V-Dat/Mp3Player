@@ -1,7 +1,7 @@
 {
   "name": "30day",
   "version": "0.1.0",
-  "homepage": "https://V-Dat.github.io",
+  "homepage": "https://v-dat.github.io/Mp3Player/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
