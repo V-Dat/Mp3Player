@@ -19,6 +19,7 @@ function ListMusic() {
         ...music,
         index: Number(listMusics.indexOf(music)),
         isPlaying: true,
+        isRotating: true,
       },
     });
   };
